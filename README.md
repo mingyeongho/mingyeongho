@@ -29,7 +29,8 @@
 </p> -->
 
 ## 🙋‍♂️ Contact me
-- mail: 1736s@naver.com 
+- Mail: 1736s@naver.com
+- Instagram : https://www.instagram.com/gaeng_ho99/
 
 <!--
 **mingyeongho/mingyeongho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
