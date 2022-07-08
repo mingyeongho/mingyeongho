@@ -29,7 +29,7 @@
 </p> -->
 
 ## 🙋‍♂️ Contact me
-- Mail: 1736s@naver.com
+- Mail: alsrudgh0210@gmail.com
 - Instagram : https://www.instagram.com/gaeng_ho99/
 
 <!--
