@@ -13,6 +13,11 @@
   <img src="https://img.shields.io/badge/Recoil-61DAFB?style=flat-square&logo=recoil&logoColor=white"/>
   
 </p>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/mingyeongho"/>
+</a>
+
 <!-- 
 ### Sometimes...
 <p>
