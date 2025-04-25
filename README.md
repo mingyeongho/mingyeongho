@@ -1,7 +1,7 @@
 ## 👋 Hi there 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyeongho)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyeongho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrudgh0210)](https://solved.ac/alsrudgh0210/)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrudgh0210)](https://solved.ac/alsrudgh0210/)
 ## 🧑‍💻 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
